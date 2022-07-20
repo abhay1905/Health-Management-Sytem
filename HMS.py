@@ -50,8 +50,6 @@ while True:
             break
 
             
-   
-
 
         if o1==1 and o2==1:
             print("Enter Food")
